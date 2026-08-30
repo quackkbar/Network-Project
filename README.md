@@ -1,3 +1,3 @@
 # Network-Project
-### 6710405401 Pramepassorn Saetang
+### 6710405401 เปรมภัสสร แซ่ตั๊ง
 ไฟล์ทั้งหมดอยู่ใน issue ค่ะTT
